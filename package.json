@@ -1,6 +1,6 @@
 {
   "name": "Nest",
-  "version": "v0.2.2",
+  "version": "v0.0.1",
   "description": "Multi-platform desktop version of Nest Music",
   "main": "main.js",
   "scripts": {
